@@ -26,7 +26,7 @@
     ```bash
       GOOGLE_API_KEY=your_google_api_key_here
 
-### 4. Setting Up the .env File
+### 4. Running the Application
 
 1. Ensure the virtual environment is activated.
 2. Run the Streamlit app:
