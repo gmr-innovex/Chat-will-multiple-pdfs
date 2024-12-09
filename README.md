@@ -9,11 +9,10 @@
    ```bash
    python -m venv venv
 4. Activate the virtual environment:
-      Windows:
-      ```bash
-          venv\Scripts\activate
-     
-
+   Windows:
+   ```bash
+   venv\Scripts\activate
+   
 ### 2: Installing Libraries and Packages
 
  1. After activating the virtual environment, install the required packages using pip:
