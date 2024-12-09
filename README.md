@@ -9,10 +9,12 @@
    ```bash
    python -m venv venv
 4. Activate the virtual environment:
-   ```bash
-   Windows: venv\Scripts\activate
-   ```bash
-   Mac/Linux: source venv/bin/activate
+ 
+   Windows:
+    ```bash venv\Scripts\activate
+  
+   Mac/Linux:
+    ```bash source venv/bin/activate
 
 ### 2: Installing Libraries and Packages
 
@@ -24,7 +26,7 @@
 
  1. Create a .env file in the project root directory.
  2. Add your Google API key in the following format:
- ```bash
+    ```bash
       GOOGLE_API_KEY=your_google_api_key_here
 
 ### 4. Setting Up the .env File
