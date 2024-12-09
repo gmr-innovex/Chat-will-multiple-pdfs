@@ -1,4 +1,4 @@
-# Chat with PDF using Gemini 💁 - README
+# Chat with PDF using Gemini 💁, Langchain, Vector DB-FAISS
 
 ## Setup Instructions
 
