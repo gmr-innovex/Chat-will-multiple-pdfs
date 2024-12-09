@@ -10,11 +10,9 @@
    python -m venv venv
 4. Activate the virtual environment:
       Windows:
-       ```bash
+      ```bash
           venv\Scripts\activate
-      Mac/Linux:
-       ```bash
-          source venv/bin/activate
+     
 
 ### 2: Installing Libraries and Packages
 
