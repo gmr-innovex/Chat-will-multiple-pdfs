@@ -1,7 +1,5 @@
 # Chat with PDF using Gemini 💁, Langchain, Vector DB-FAISS
 
-## Setup Instructions
-
 ### 1: Creating a Virtual Environment
 1. Open a terminal.
 2. Navigate to the project directory.
